@@ -292,7 +292,6 @@ private boolean cognitiveNounPattern(int id)
 
 # Rule-based Approach
 
-2. write read me
 3. re-annotate everything using the multimethod
 	- add more examples to guidelines
 4. begin writing paper in latex
